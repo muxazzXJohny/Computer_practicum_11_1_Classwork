@@ -5,3 +5,10 @@ C:\Users\Андрей\source\repos\ConsoleApp03.12.24\obj\Debug\ConsoleApp03.12.
 C:\Users\Андрей\source\repos\ConsoleApp03.12.24\obj\Debug\ConsoleApp03.12.24.csproj.CoreCompileInputs.cache
 C:\Users\Андрей\source\repos\ConsoleApp03.12.24\obj\Debug\ConsoleApp03.12.24.exe
 C:\Users\Андрей\source\repos\ConsoleApp03.12.24\obj\Debug\ConsoleApp03.12.24.pdb
+D:\Documents\GitHub\Project\Computer_practicum_11_1_Classwork\ConsoleApp03.12.24\bin\Debug\ConsoleApp03.12.24.exe.config
+D:\Documents\GitHub\Project\Computer_practicum_11_1_Classwork\ConsoleApp03.12.24\bin\Debug\ConsoleApp03.12.24.exe
+D:\Documents\GitHub\Project\Computer_practicum_11_1_Classwork\ConsoleApp03.12.24\bin\Debug\ConsoleApp03.12.24.pdb
+D:\Documents\GitHub\Project\Computer_practicum_11_1_Classwork\ConsoleApp03.12.24\obj\Debug\ConsoleApp03.12.24.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Project\Computer_practicum_11_1_Classwork\ConsoleApp03.12.24\obj\Debug\ConsoleApp03.12.24.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Project\Computer_practicum_11_1_Classwork\ConsoleApp03.12.24\obj\Debug\ConsoleApp03.12.24.exe
+D:\Documents\GitHub\Project\Computer_practicum_11_1_Classwork\ConsoleApp03.12.24\obj\Debug\ConsoleApp03.12.24.pdb

@@ -11,16 +11,16 @@ namespace ConsoleApp03._12._24
     {
         static void Main(string[] args)
         {
-            String st1 = "Это первая строка";
-            String st2 = "Это вторая строка";
-            Console.WriteLine($"Вывод перед обменом:{st1} + {st2}");
+            string st1 = "Это первая строка";
+            string st2 = "Это вторая строка";
+            Console.WriteLine($"Вывод перед обменом:{st1}\t{st2}");
             Swap(ref st1, ref st2);
-            Console.WriteLine($"Вывод после обмена:{st1}+{st2}");
+            Console.WriteLine($"Вывод после обмена:{st1}\t{st2}");
             Console.ReadKey();
         }
         static void Swap(ref string x, ref string y)
         {
-            String p = x;
+            string p = x;
             x = y;
             y = p;
         }

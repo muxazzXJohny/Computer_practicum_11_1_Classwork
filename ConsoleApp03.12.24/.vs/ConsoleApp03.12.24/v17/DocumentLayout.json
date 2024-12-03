@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\source\\repos\\ConsoleApp03.12.24\\",
+  "WorkspaceRootPath": "D:\\Documents\\GitHub\\Project\\Computer_practicum_11_1_Classwork\\ConsoleApp03.12.24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42723C10-F399-4EB6-B1F7-EFE3AB0E0C12}|ConsoleApp03.12.24.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\source\\repos\\consoleapp03.12.24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42723C10-F399-4EB6-B1F7-EFE3AB0E0C12}|ConsoleApp03.12.24.csproj|d:\\documents\\github\\project\\computer_practicum_11_1_classwork\\consoleapp03.12.24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42723C10-F399-4EB6-B1F7-EFE3AB0E0C12}|ConsoleApp03.12.24.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\source\\repos\\ConsoleApp03.12.24\\Program.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\Project\\Computer_practicum_11_1_Classwork\\ConsoleApp03.12.24\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\source\\repos\\ConsoleApp03.12.24\\Program.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\Project\\Computer_practicum_11_1_Classwork\\ConsoleApp03.12.24\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T07:01:31.653Z",
               "EditorCaption": ""
